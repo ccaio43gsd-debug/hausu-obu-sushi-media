@@ -1,0 +1,254 @@
+[
+ {
+  "id": "HOS-TT-012",
+  "hero": false,
+  "f0": 0.178,
+  "best": 0.209
+ },
+ {
+  "id": "HOS-TT-013",
+  "hero": false,
+  "f0": 0.122,
+  "best": 0.126
+ },
+ {
+  "id": "HOS-TT-017",
+  "hero": false,
+  "f0": 0.153,
+  "best": 0.174
+ },
+ {
+  "id": "HOS-TT-019",
+  "hero": false,
+  "f0": 0.122,
+  "best": 0.123
+ },
+ {
+  "id": "HOS-TT-118",
+  "hero": true,
+  "f0": 0.05,
+  "best": 0.112
+ },
+ {
+  "id": "HOS-TT-119",
+  "hero": true,
+  "f0": 0.059,
+  "best": 0.109
+ },
+ {
+  "id": "HOS-TT-120",
+  "hero": true,
+  "f0": 0.054,
+  "best": 0.108
+ },
+ {
+  "id": "HOS-TT-136",
+  "hero": false,
+  "f0": 0.261,
+  "best": 0.261
+ },
+ {
+  "id": "HOS-TT-137",
+  "hero": false,
+  "f0": 0.111,
+  "best": 0.112
+ },
+ {
+  "id": "HOS-TT-138",
+  "hero": false,
+  "f0": 0.123,
+  "best": 0.123
+ },
+ {
+  "id": "HOS-TT-139",
+  "hero": false,
+  "f0": 0.259,
+  "best": 0.285
+ },
+ {
+  "id": "HOS-TT-140",
+  "hero": false,
+  "f0": 0.21,
+  "best": 0.211
+ },
+ {
+  "id": "HOS-TT-141",
+  "hero": false,
+  "f0": 0.08,
+  "best": 0.081
+ },
+ {
+  "id": "HOS-TT-142",
+  "hero": false,
+  "f0": 0.183,
+  "best": 0.183
+ },
+ {
+  "id": "HOS-TT-143",
+  "hero": false,
+  "f0": 0.187,
+  "best": 0.194
+ },
+ {
+  "id": "HOS-TT-144",
+  "hero": false,
+  "f0": 0.135,
+  "best": 0.143
+ },
+ {
+  "id": "HOS-TT-145",
+  "hero": false,
+  "f0": 0.127,
+  "best": 0.138
+ },
+ {
+  "id": "HOS-TT-146",
+  "hero": false,
+  "f0": 0.129,
+  "best": 0.134
+ },
+ {
+  "id": "HOS-TT-147",
+  "hero": false,
+  "f0": 0.093,
+  "best": 0.096
+ },
+ {
+  "id": "HOS-TT-148",
+  "hero": false,
+  "f0": 0.209,
+  "best": 0.209
+ },
+ {
+  "id": "HOS-TT-149",
+  "hero": false,
+  "f0": 0.229,
+  "best": 0.357
+ },
+ {
+  "id": "HOS-TT-150",
+  "hero": false,
+  "f0": 0.259,
+  "best": 0.259
+ },
+ {
+  "id": "HOS-TT-151",
+  "hero": false,
+  "f0": 0.288,
+  "best": 0.292
+ },
+ {
+  "id": "HOS-TT-152",
+  "hero": false,
+  "f0": 0.21,
+  "best": 0.275
+ },
+ {
+  "id": "HOS-TT-153",
+  "hero": false,
+  "f0": 0.142,
+  "best": 0.235
+ },
+ {
+  "id": "HOS-TT-154",
+  "hero": false,
+  "f0": 0.081,
+  "best": 0.101
+ },
+ {
+  "id": "HOS-TT-155",
+  "hero": false,
+  "f0": 0.097,
+  "best": 0.097
+ },
+ {
+  "id": "HOS-TT-156",
+  "hero": true,
+  "f0": 0.051,
+  "best": 0.196
+ },
+ {
+  "id": "HOS-TT-157",
+  "hero": true,
+  "f0": 0.051,
+  "best": 0.209
+ },
+ {
+  "id": "HOS-TT-158",
+  "hero": true,
+  "f0": 0.043,
+  "best": 0.174
+ },
+ {
+  "id": "HOS-TT-159",
+  "hero": true,
+  "f0": 0.03,
+  "best": 0.135
+ },
+ {
+  "id": "HOS-TT-160",
+  "hero": true,
+  "f0": 0.039,
+  "best": 0.125
+ },
+ {
+  "id": "HOS-TT-161",
+  "hero": true,
+  "f0": 0.064,
+  "best": 0.266
+ },
+ {
+  "id": "HOS-TT-162",
+  "hero": true,
+  "f0": 0.045,
+  "best": 0.142
+ },
+ {
+  "id": "HOS-TT-163",
+  "hero": true,
+  "f0": 0.049,
+  "best": 0.119
+ },
+ {
+  "id": "HOS-TT-164",
+  "hero": false,
+  "f0": 0.072,
+  "best": 0.117
+ },
+ {
+  "id": "HOS-TT-165",
+  "hero": false,
+  "f0": 0.116,
+  "best": 0.121
+ },
+ {
+  "id": "HOS-TT-166",
+  "hero": false,
+  "f0": 0.05,
+  "best": 0.08
+ },
+ {
+  "id": "HOS-TT-167",
+  "hero": true,
+  "f0": 0.119,
+  "best": 0.25
+ },
+ {
+  "id": "HOS-TT-168",
+  "hero": true,
+  "f0": 0.069,
+  "best": 0.188
+ },
+ {
+  "id": "HOS-TT-169",
+  "hero": false,
+  "f0": 0.156,
+  "best": 0.184
+ },
+ {
+  "id": "HOS-TT-170",
+  "hero": true,
+  "f0": 0.118,
+  "best": 0.243
+ }
+]
